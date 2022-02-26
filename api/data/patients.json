@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sterling Archer",
+    "physician": "Algernop Krieger",
+    "time": "8:00 AM",
+    "visit-type": "New Patient"
+  },
+  {
+    "name": "John Doe",
+    "physician": "Algernop Krieger",
+    "time": "9:00 AM",
+    "visit-type": "New Patient"
+  },
+  {
+    "name": "Sally Franks",
+    "physician": "Algernop Krieger",
+    "time": "10:00 AM",
+    "visit-type": "Follow Up"
+  },
+  {
+    "name": "Franks Hot",
+    "physician": "Algernop Krieger",
+    "time": "12:00 PM",
+    "visit-type": "Follow Up"
+  },
+  {
+    "name": "Joe Jimmmy John",
+    "physician": "Julius Hilbert",
+    "time": "8:00 AM",
+    "visit-type": "New Patient"
+  },
+  {
+    "name": "Roy Kent",
+    "physician": "Julius Hilbert",
+    "time": "8:00 AM",
+    "visit-type": "New Patient"
+  },
+  {
+    "name": "John Reen",
+    "physician": "Julius Hilbert",
+    "time": "9:00 AM",
+    "visit-type": "New Patient"
+  },
+  {
+    "name": "Sally Hays",
+    "physician": "Julius Hilbert",
+    "time": "10:00 AM",
+    "visit-type": "Follow Up"
+  },
+  {
+    "name": "Tim Allan",
+    "physician": "Julius Hilbert",
+    "time": "2:00 PM",
+    "visit-type": "Follow Up"
+  },
+  {
+    "name": "Patrick Bateman",
+    "physician": "Nick Riviera",
+    "time": "9:00 AM",
+    "visit-type": "New Patient"
+  },
+  {
+    "name": "Mark Jacobson",
+    "physician": "Nick Riviera",
+    "time": "10:00 AM",
+    "visit-type": "Follow Up"
+  },
+  {
+    "name": "Dominic de Coco",
+    "physician": "Nick Riviera",
+    "time": "2:00 PM",
+    "visit-type": "Follow Up"
+  }
+]
